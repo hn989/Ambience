@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0072fb5c504d57a14c"
+  },
+  "name": "mod-api-tokens",
+  "description": "Allows API Tokens Access"
+}

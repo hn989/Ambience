@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfd3c3d1c2e632b1a40"
+  },
+  "name": "mod-themes",
+  "description": "Allows Themes Access"
+}

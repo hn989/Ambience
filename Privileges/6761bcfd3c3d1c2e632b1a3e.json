@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfd3c3d1c2e632b1a3e"
+  },
+  "name": "mod-record-editors",
+  "description": "Allows Record Editors Access"
+}

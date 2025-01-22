@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd003c3d1c2e632b1a84"
+  },
+  "name": "mod-queue-monitor-job",
+  "description": "Allowed to view Job Queue"
+}

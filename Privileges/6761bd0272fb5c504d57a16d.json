@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0272fb5c504d57a16d"
+  },
+  "name": "mod-cms-group-edit",
+  "description": "Allowed to edit CMS Groups, Pages, Templates and Resources"
+}

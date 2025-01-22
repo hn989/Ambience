@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfb3c3d1c2e632b1a1e"
+  },
+  "name": "mod-events-log-viewer",
+  "description": "Allows Event Logs Access"
+}

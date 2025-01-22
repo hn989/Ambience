@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfc3c3d1c2e632b1a32"
+  },
+  "name": "mod-messages-delete",
+  "description": "Allowed to delete Messages"
+}

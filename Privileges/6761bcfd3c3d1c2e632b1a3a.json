@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfd3c3d1c2e632b1a3a"
+  },
+  "name": "mod-scheduler-admin",
+  "description": "Allows administration of triggers belonging to others (mod-scheduler required also)"
+}

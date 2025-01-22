@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcf872fb5c504d57a0a6"
+  },
+  "name": "mod-data-explorer",
+  "description": "Allows Data Explorer Access"
+}

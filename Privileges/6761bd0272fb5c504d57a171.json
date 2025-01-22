@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0272fb5c504d57a171"
+  },
+  "name": "mod-cms-management",
+  "description": "Allows CMS Management Access"
+}

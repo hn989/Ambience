@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcf772fb5c504d57a0a1"
+  },
+  "name": "mod-artifact-explorer",
+  "description": "Allows Artifact Explorer Access"
+}

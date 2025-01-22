@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfd72fb5c504d57a110"
+  },
+  "name": "mod-task-lists",
+  "description": "Allows Task Lists Access"
+}

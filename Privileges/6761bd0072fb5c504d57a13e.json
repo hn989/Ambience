@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0072fb5c504d57a13e"
+  },
+  "name": "mod-cms-site-publish",
+  "description": "Allowed to publish a Snapshot to a CMS Site"
+}

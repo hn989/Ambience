@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcf43c3d1c2e632b19db"
+  },
+  "name": "mod-dashboard-views",
+  "description": "Allows Dashboard Views Access"
+}

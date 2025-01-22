@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfe72fb5c504d57a122"
+  },
+  "name": "mod-lookup",
+  "description": "Allows Lookup Access"
+}

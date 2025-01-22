@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0172fb5c504d57a150"
+  },
+  "name": "mod-activity-log-viewer",
+  "description": "Allows Activity Logs Access"
+}
