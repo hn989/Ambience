@@ -19,7 +19,13 @@
   "email": "user1@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1737527411124"
+      "$numberLong": "1737532090288"
     }
-  }
+  },
+  "recent-files": [
+    {
+      "label": "reportA.rml",
+      "url": "repository/index.html#/Project1/ABC/reportA.rml"
+    }
+  ]
 }
