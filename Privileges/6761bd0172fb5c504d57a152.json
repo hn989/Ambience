@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0172fb5c504d57a152"
+  },
+  "name": "mod-business-rules",
+  "description": "Allows Business Rules Access"
+}

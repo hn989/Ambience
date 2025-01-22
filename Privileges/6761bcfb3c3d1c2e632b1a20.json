@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfb3c3d1c2e632b1a20"
+  },
+  "name": "mod-cms-snapshot",
+  "description": "Allowed to preview CMS Snapshots"
+}

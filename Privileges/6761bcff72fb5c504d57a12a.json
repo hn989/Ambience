@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcff72fb5c504d57a12a"
+  },
+  "name": "mod-secrets",
+  "description": "Allows Secrets Access"
+}

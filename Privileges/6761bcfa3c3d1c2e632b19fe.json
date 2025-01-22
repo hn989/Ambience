@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bcfa3c3d1c2e632b19fe"
+  },
+  "name": "mod-i18n-translator",
+  "description": "Allowed to maintain translations, but not master values"
+}

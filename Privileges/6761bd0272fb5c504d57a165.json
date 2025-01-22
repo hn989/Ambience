@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0272fb5c504d57a165"
+  },
+  "name": "mod-text-templates",
+  "description": "Allows Text Templates Access"
+}

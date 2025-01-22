@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6761bd0172fb5c504d57a160"
+  },
+  "name": "mod-kanban",
+  "description": "Allows Kanban Access"
+}
