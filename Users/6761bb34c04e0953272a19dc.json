@@ -4,7 +4,11 @@
   },
   "name": "admin",
   "enabled": true,
-  "roles": [],
+  "roles": [
+    {
+      "$oid": "67a2b19c138fae68fb9d533b"
+    }
+  ],
   "privileges": [
     {
       "$oid": "6761bcfe72fb5c504d57a11e"
@@ -715,7 +719,7 @@
   "email": "changeme@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1737532115961"
+      "$numberLong": "1738852529567"
     }
   },
   "recent-files": [
@@ -724,24 +728,68 @@
       "url": "etl-designer/0f7c7354-6834-4fb9-8334-c6c40c19c3ae/index.html"
     },
     {
-      "label": "reportA.rml",
-      "url": "repository/index.html#/Project1/ABC/reportA.rml"
+      "label": "Customer_Listing-100-Large.rml",
+      "url": "repository/index.html#/simple-load-rml/Customer_Listing-100-Large.rml"
     },
     {
-      "label": "reportA.rml",
-      "url": "repository/index.html#/wkdir/report/reportA.rml"
+      "label": "Customer_Listing-1000-Large.rml",
+      "url": "repository/index.html#/simple-load-rml/Customer_Listing-1000-Large.rml"
+    },
+    {
+      "label": "Customer_Listing-50000-Large.rml",
+      "url": "repository/index.html#/simple-load-rml/Customer_Listing-50000-Large.rml"
+    },
+    {
+      "label": "Customer_Listing-10000-Large.rml",
+      "url": "repository/index.html#/simple-load-rml/Customer_Listing-10000-Large.rml"
+    },
+    {
+      "label": "Customer_Listing-100.rml",
+      "url": "repository/index.html#/simple-load-rml/Customer_Listing-100.rml"
+    },
+    {
+      "label": "DataLoader-LoadTest",
+      "url": "etl-designer/0eb3606f-8a3c-4cae-bd39-f00dc4b9eab0/index.html"
     },
     {
       "label": "csfle",
       "url": "etl-designer/64c0a77b-3a0d-49cf-8d74-d52149cf5e6f/index.html"
     },
     {
-      "label": "housekeepingGeneral",
-      "url": "etl-designer/7bf2e43b-7d19-4340-8f0c-99a6cf0a1ce5/index.html"
+      "label": "GitRepository-LoadTest",
+      "url": "etl-designer/ade4778c-452b-468d-b150-296793d92c32/index.html"
+    },
+    {
+      "label": "reportA.rml",
+      "url": "repository/index.html#/Project1/ABC/reportA.rml"
+    },
+    {
+      "label": "Test-Email",
+      "url": "etl-designer/f3bb464d-ffe2-47af-8016-d1b2ef6c589d/index.html"
+    },
+    {
+      "label": "transaction_report.rml",
+      "url": "repository/index.html#/simple-load-rml/rml-subreport/transaction_report.rml"
+    },
+    {
+      "label": "Customer-100.ds",
+      "url": "repository/index.html#/simple-load-rml/Customer-100.ds"
+    },
+    {
+      "label": "Customer_Listing-10000.rml",
+      "url": "repository/index.html#/simple-load-rml/Customer_Listing-10000.rml"
     },
     {
       "label": "houseKeepingLogsArchiveS3",
       "url": "etl-designer/bcce8aa6-46cd-4aee-9ff2-704622332c9b/index.html"
+    },
+    {
+      "label": "reportA.rml",
+      "url": "repository/index.html#/wkdir/report/reportA.rml"
+    },
+    {
+      "label": "housekeepingGeneral",
+      "url": "etl-designer/7bf2e43b-7d19-4340-8f0c-99a6cf0a1ce5/index.html"
     }
   ],
   "settings": {
