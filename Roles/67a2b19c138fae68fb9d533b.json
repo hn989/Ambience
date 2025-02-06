@@ -1,0 +1,33 @@
+{
+  "_id": {
+    "$oid": "67a2b19c138fae68fb9d533b"
+  },
+  "name": "loadTester",
+  "description": "",
+  "privileges": [
+    {
+      "$oid": "6761bd0372fb5c504d57a179"
+    },
+    {
+      "$oid": "6761bcff72fb5c504d57a13a"
+    },
+    {
+      "$oid": "6761bcf93c3d1c2e632b19f2"
+    },
+    {
+      "$oid": "6761bcfc3c3d1c2e632b1a2a"
+    },
+    {
+      "$oid": "6761bb34c04e0953272a19cc"
+    },
+    {
+      "$oid": "6761bcfe3c3d1c2e632b1a58"
+    }
+  ],
+  "enabled": true,
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1738715632334"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_id": {
+    "$oid": "67a0863abc9c990bf9b98d9d"
+  },
+  "enabled": true,
+  "roles": [
+    {
+      "$oid": "678f45ac819c9613e22955ae"
+    }
+  ],
+  "privileges": [],
+  "extraFields": {},
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1738573370559"
+    }
+  },
+  "name-deleted": "ayub"
+}

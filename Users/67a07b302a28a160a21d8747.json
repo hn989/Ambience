@@ -1,0 +1,25 @@
+{
+  "_id": {
+    "$oid": "67a07b302a28a160a21d8747"
+  },
+  "enabled": true,
+  "roles": [
+    {
+      "$oid": "67908ebec820ea4b22ef3dec"
+    },
+    {
+      "$oid": "678f45ac819c9613e22955ae"
+    },
+    {
+      "$oid": "678f45dd819c9613e22955d3"
+    }
+  ],
+  "privileges": [],
+  "extraFields": {},
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1738570544692"
+    }
+  },
+  "name-deleted": "ayub@elixirtech.com"
+}
