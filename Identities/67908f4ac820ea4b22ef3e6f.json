@@ -1,0 +1,25 @@
+{
+  "_id": {
+    "$oid": "67908f4ac820ea4b22ef3e6f"
+  },
+  "id": "",
+  "name": "jo",
+  "email": "jimmy@elixirtech.com",
+  "enabled": true,
+  "password": "$pbkdf2-sha512$20000$TpjkWVUg4mWD9t9m.n1FghXeh.6mvri8$ihYd.grWwIdGEZPsXXwQ5gOAj.LRZdd1w/LuwTFKzAQ",
+  "changePassword": true,
+  "lastPasswordChange": {
+    "$date": {
+      "$numberLong": "1737527469729"
+    }
+  },
+  "failedLogins": {
+    "$numberInt": "0"
+  },
+  "oldPasswords": [],
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1737527532650"
+    }
+  }
+}

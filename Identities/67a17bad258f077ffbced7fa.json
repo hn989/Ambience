@@ -1,0 +1,27 @@
+{
+  "_id": {
+    "$oid": "67a17bad258f077ffbced7fa"
+  },
+  "id": "",
+  "name": "ayub",
+  "email": "ayub@elixirtech.com",
+  "enabled": true,
+  "password": "$pbkdf2-sha512$20000$RUVFMUAXQJNuGc6/DsLK7Ec.gCBx9LWz$SDzKeUPK61yta8ju7iRJ.QRzRwiE3xnAeQGfo0g.74o",
+  "changePassword": false,
+  "lastPasswordChange": {
+    "$date": {
+      "$numberLong": "1738636835540"
+    }
+  },
+  "failedLogins": {
+    "$numberInt": "0"
+  },
+  "oldPasswords": [
+    "$pbkdf2-sha512$20000$6JLha7hH4yKRxo.K5j2ubAntJ3vANT72$AjWobhRySs28ixGncuo4yNuEReOGSuZyd8If7gwRwdg"
+  ],
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1738636810280"
+    }
+  }
+}
