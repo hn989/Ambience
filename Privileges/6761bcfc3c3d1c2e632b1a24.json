@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfc3c3d1c2e632b1a24"
-  },
-  "name": "mod-a4-migration",
-  "description": "Allows A4 Migration Access"
-}

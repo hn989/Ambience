@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "67b35cb7ec0b5b26c152c23e"
+  },
+  "name": "mod-maintainer",
+  "description": "Allowed to user the system in maintenance mode"
+}

@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfd72fb5c504d57a104"
-  },
-  "name": "mod-themes",
-  "description": "Allows Themes Access"
-}

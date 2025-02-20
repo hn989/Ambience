@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bd0072fb5c504d57a140"
-  },
-  "name": "mod-adhoc-reports-edit",
-  "description": "Allowed to edit Ad Hoc Report metadata (eg. role access)"
-}

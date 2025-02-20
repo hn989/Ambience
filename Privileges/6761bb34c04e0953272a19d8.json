@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bb34c04e0953272a19d8"
-  },
-  "name": "mod-simple-sso",
-  "description": "Allows Simple SSO Access"
-}

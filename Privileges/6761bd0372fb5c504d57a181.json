@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bd0372fb5c504d57a181"
-  },
-  "name": "mod-adhoc-report",
-  "description": "Allows Ad Hoc Report Access"
-}

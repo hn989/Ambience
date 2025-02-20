@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfe72fb5c504d57a126"
-  },
-  "name": "mod-git-deploy",
-  "description": "Allows Git Deploy Access"
-}

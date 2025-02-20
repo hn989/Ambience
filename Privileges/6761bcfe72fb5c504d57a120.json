@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfe72fb5c504d57a120"
-  },
-  "name": "mod-business-rules-designer",
-  "description": "Allows Business Rules Designer Access"
-}

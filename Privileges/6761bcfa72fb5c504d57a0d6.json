@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfa72fb5c504d57a0d6"
-  },
-  "name": "mod-data-mixer",
-  "description": "Allows Data Mixer Access"
-}

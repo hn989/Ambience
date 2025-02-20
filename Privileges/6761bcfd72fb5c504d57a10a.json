@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfd72fb5c504d57a10a"
-  },
-  "name": "mod-workgroups",
-  "description": "Allows Workgroups Access"
-}

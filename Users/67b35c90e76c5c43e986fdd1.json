@@ -1,0 +1,398 @@
+{
+  "_id": {
+    "$oid": "67b35c90e76c5c43e986fdd1"
+  },
+  "name": "admin",
+  "enabled": true,
+  "roles": [],
+  "privileges": [
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1fc"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ae"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c230"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1c8"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c262"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c20c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c186"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c238"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c22a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1c2"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c210"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1c6"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1d2"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c19e"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1fa"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ea"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1e2"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1cc"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c18e"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ba"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdcb"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1aa"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c226"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1be"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c192"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c194"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c222"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ee"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1f2"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c19c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c202"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c250"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdc7"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c212"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1a0"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c224"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c23e"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c25a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c188"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c246"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdc3"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1d8"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1f0"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c21e"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1e4"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1b8"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c22e"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c23c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1d6"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1a4"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1f4"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c220"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c21a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c234"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1b4"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c206"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c208"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c252"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c260"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c22c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c20e"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdbf"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdc9"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c228"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1dc"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c196"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdcd"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c25c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c190"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1a6"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1a2"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ec"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1de"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c24a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c18a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ac"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1b6"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdc1"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c24e"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c25e"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c218"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c21c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c214"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c248"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c256"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c23a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c20a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1fe"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ce"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1da"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1f8"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdbd"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1b0"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c236"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1a8"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1bc"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c198"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c216"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c204"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c254"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c19a"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1c4"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c244"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1f6"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c242"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1e6"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1d0"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1b2"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1e0"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1d4"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ca"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c200"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c232"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1e8"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c240"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1c0"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c24c"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdc5"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c18c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c258"
+    },
+    {
+      "$oid": "67b35cf508015f6460abda51"
+    },
+    {
+      "$oid": "67b35cf508015f6460abda52"
+    }
+  ],
+  "email": "changeme@example.com",
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1740056118792"
+    }
+  },
+  "recent-files": [
+    {
+      "label": "GitFilesystem",
+      "url": "etl-designer/0f7c7354-6834-4fb9-8334-c6c40c19c3ae/index.html"
+    },
+    {
+      "label": "csfle-aws-encrypt.rml",
+      "url": "repository/index.html#/ElixirSamples/CSFLE/AWS/csfle-aws-encrypt.rml"
+    }
+  ],
+  "settings": {
+    "service-chooser": {
+      "favourites": "etl,git-deploy,queue-monitor,report-portal,repository,repository-disk,secrets,system-settings",
+      "pinned": "messages,sysinfo,tasks,user-settings"
+    }
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfd72fb5c504d57a112"
-  },
-  "name": "mod-cms-site",
-  "description": "Allowed to view CMS Sites"
-}

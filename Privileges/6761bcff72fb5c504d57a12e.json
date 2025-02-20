@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcff72fb5c504d57a12e"
-  },
-  "name": "mod-report-portal-admin",
-  "description": "Allows administering other user's report portal contents"
-}

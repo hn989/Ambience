@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bd0172fb5c504d57a162"
-  },
-  "name": "mod-import",
-  "description": "Allows Imports Access"
-}

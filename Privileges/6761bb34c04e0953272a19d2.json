@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bb34c04e0953272a19d2"
-  },
-  "name": "mod-identity",
-  "description": "Allows Identities Access"
-}

@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "67b35cb7ec0b5b26c152c200"
+  },
+  "name": "mod-cms-snapshot-edit",
+  "description": "Allowed to add and edit CMS Snapshot metadata (eg. role access)"
+}

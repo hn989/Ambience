@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfb72fb5c504d57a0de"
-  },
-  "name": "mod-cms-site-edit",
-  "description": "Allowed to add and edit CMS Site metadata (eg. role access)"
-}

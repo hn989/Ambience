@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfe72fb5c504d57a11c"
-  },
-  "name": "mod-user-settings",
-  "description": "Allows User Settings Access"
-}

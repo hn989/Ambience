@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfc72fb5c504d57a0f4"
-  },
-  "name": "mod-task-lists-etl",
-  "description": "Allows ETL access to all task lists"
-}

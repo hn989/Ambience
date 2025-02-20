@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfd72fb5c504d57a10e"
-  },
-  "name": "mod-workflow-edit",
-  "description": "Allowed to edit workflows"
-}

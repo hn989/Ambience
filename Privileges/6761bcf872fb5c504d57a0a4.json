@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcf872fb5c504d57a0a4"
-  },
-  "name": "mod-ownership-admin",
-  "description": "Allows ownership reassignment regardless of current ownership"
-}

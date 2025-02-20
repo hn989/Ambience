@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfa72fb5c504d57a0d2"
-  },
-  "name": "mod-viz",
-  "description": "Allows Visualisations Access"
-}

@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcff3c3d1c2e632b1a64"
-  },
-  "name": "mod-messages",
-  "description": "Allows Messages Access"
-}

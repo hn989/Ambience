@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcf972fb5c504d57a0c0"
-  },
-  "name": "mod-export",
-  "description": "Allows Exports Access"
-}

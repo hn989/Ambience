@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfe72fb5c504d57a114"
-  },
-  "name": "mod-gis-explorers",
-  "description": "Allows GIS Explorers Access"
-}

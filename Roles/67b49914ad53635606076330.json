@@ -1,0 +1,30 @@
+{
+  "_id": {
+    "$oid": "67b49914ad53635606076330"
+  },
+  "name": "roleA",
+  "description": "",
+  "privileges": [
+    {
+      "$oid": "67b35cb7ec0b5b26c152c21c"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c198"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1d0"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdc1"
+    },
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1fe"
+    }
+  ],
+  "enabled": true,
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1739889372866"
+    }
+  }
+}

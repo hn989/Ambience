@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "67b35cb7ec0b5b26c152c1cc"
+  },
+  "name": "mod-cms-snapshot-approve",
+  "description": "Allowed to approve a CMS Snapshots"
+}

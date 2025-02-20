@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bd033c3d1c2e632b1ab3"
-  },
-  "name": "mod-scheduler-calendar",
-  "description": "Allows Calendar administration"
-}

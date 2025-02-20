@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bd0372fb5c504d57a17d"
-  },
-  "name": "mod-i18n",
-  "description": "Allows Internationalisation Access"
-}
