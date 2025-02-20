@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcf972fb5c504d57a0b8"
-  },
-  "name": "mod-ocr-edit",
-  "description": "Allowed to edit"
-}

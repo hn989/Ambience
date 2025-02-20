@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcf972fb5c504d57a0bc"
-  },
-  "name": "mod-cms-group",
-  "description": "Allowed to view CMS Groups"
-}

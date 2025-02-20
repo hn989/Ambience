@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfa72fb5c504d57a0c4"
-  },
-  "name": "mod-queue-monitor",
-  "description": "Allows Queue Monitor Access"
-}

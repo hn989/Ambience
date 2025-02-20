@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bb34c04e0953272a19cc"
-  },
-  "name": "mod-service-chooser",
-  "description": "Allows Service Chooser Access"
-}

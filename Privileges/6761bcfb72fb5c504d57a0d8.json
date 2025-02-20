@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfb72fb5c504d57a0d8"
-  },
-  "name": "mod-messages-send",
-  "description": "Allowed to send Messages"
-}

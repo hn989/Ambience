@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfc72fb5c504d57a0f0"
-  },
-  "name": "mod-recycle-bin-admin",
-  "description": "Allows rollback regardless of current ownership"
-}

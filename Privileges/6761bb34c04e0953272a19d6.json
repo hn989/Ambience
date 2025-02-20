@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bb34c04e0953272a19d6"
-  },
-  "name": "mod-users",
-  "description": "Allows Users Access"
-}

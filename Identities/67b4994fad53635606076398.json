@@ -1,0 +1,27 @@
+{
+  "_id": {
+    "$oid": "67b4994fad53635606076398"
+  },
+  "id": "",
+  "name": "user1",
+  "email": "user1@example.com",
+  "enabled": true,
+  "password": "$pbkdf2-sha512$20000$q7DsrmBZ.tqKjOiPnPklkJBjtf1yimxq$O.eXUohsx//t9kSHtVppyypiUKlwfK.zNDZsNeBKdNo",
+  "changePassword": false,
+  "lastPasswordChange": {
+    "$date": {
+      "$numberLong": "1739889063279"
+    }
+  },
+  "failedLogins": {
+    "$numberInt": "0"
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1739895986408"
+    }
+  },
+  "oldPasswords": [
+    "$pbkdf2-sha512$20000$IA9lgEe.y/TwkRN9atLrh4VdHvSq7Rcs$b1yuZ5eABiTnOmzPjy1AwtsVlNpesxDqML4xAJ7aFus"
+  ]
+}

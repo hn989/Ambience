@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "67b35c90e76c5c43e986fdc9"
+  },
+  "name": "mod-licence-deployer",
+  "description": "Allows Licence Deployer Access"
+}

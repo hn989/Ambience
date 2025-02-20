@@ -1,0 +1,25 @@
+{
+  "_id": {
+    "$oid": "67b4993fad53635606076370"
+  },
+  "name": "user2",
+  "enabled": true,
+  "roles": [
+    {
+      "$oid": "67b4992cad53635606076339"
+    }
+  ],
+  "privileges": [],
+  "extraFields": {},
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1739888959515"
+    }
+  },
+  "email": "user2@example.com",
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1739897892374"
+    }
+  }
+}

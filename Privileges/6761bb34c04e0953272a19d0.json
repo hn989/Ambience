@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bb34c04e0953272a19d0"
-  },
-  "name": "mod-privileges",
-  "description": "Allows Privileges Access"
-}

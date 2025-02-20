@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcf872fb5c504d57a0a8"
-  },
-  "name": "mod-etl-daemon-edit",
-  "description": "Allowed to edit ETL Daemons"
-}

@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcff72fb5c504d57a130"
-  },
-  "name": "mod-docx-engine",
-  "description": "Allows DocX Report Engine Access"
-}

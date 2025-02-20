@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bd0172fb5c504d57a156"
-  },
-  "name": "mod-secrets-reader",
-  "description": "Allows reading of secrets"
-}

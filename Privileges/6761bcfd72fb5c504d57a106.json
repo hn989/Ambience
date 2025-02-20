@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfd72fb5c504d57a106"
-  },
-  "name": "mod-ocr-preview",
-  "description": "Allowed to preview"
-}

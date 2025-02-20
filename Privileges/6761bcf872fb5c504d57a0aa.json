@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcf872fb5c504d57a0aa"
-  },
-  "name": "mod-audit-log-viewer",
-  "description": "Allows Audit Logs Access"
-}

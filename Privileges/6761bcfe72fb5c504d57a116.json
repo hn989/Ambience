@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfe72fb5c504d57a116"
-  },
-  "name": "mod-viz-interactive-edit",
-  "description": "Allowed to edit visualisations"
-}

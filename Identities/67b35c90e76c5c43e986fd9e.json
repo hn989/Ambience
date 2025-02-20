@@ -1,0 +1,23 @@
+{
+  "_id": {
+    "$oid": "67b35c90e76c5c43e986fd9e"
+  },
+  "name": "admin",
+  "email": "changeme@example.com",
+  "enabled": true,
+  "password": "$pbkdf2-sha512$20000$aq5CAph3rz7.s75ORcQ2NrLsVDAG8bPZ$aZPZOmq8pJW/.CT0aBh5g3BSl.hJMSaEjoI6NrWU11I",
+  "changePassword": false,
+  "lastPasswordChange": {
+    "$date": {
+      "$numberLong": "1739807888177"
+    }
+  },
+  "failedLogins": {
+    "$numberInt": "0"
+  },
+  "lastLogin": {
+    "$date": {
+      "$numberLong": "1740056118758"
+    }
+  }
+}

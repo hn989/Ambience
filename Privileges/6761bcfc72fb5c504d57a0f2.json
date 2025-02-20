@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcfc72fb5c504d57a0f2"
-  },
-  "name": "mod-sysinfo",
-  "description": "Allows System Information Access"
-}

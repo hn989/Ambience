@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bcf972fb5c504d57a0b6"
-  },
-  "name": "mod-repository",
-  "description": "Allows Repository Access"
-}

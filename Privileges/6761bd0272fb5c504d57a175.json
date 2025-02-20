@@ -1,7 +1,0 @@
-{
-  "_id": {
-    "$oid": "6761bd0272fb5c504d57a175"
-  },
-  "name": "mod-dashboard-edit",
-  "description": "Allowed to edit dashboards"
-}
