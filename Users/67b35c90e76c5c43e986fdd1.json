@@ -4,7 +4,14 @@
   },
   "name": "admin",
   "enabled": true,
-  "roles": [],
+  "roles": [
+    {
+      "$oid": "67b49914ad53635606076330"
+    },
+    {
+      "$oid": "67b4992cad53635606076339"
+    }
+  ],
   "privileges": [
     {
       "$oid": "67b35cb7ec0b5b26c152c1fc"
@@ -376,13 +383,21 @@
   "email": "changeme@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1740056118792"
+      "$numberLong": "1740108260734"
     }
   },
   "recent-files": [
     {
       "label": "GitFilesystem",
       "url": "etl-designer/0f7c7354-6834-4fb9-8334-c6c40c19c3ae/index.html"
+    },
+    {
+      "label": "Form.rml",
+      "url": "repository/index.html#/Project1/Form.rml"
+    },
+    {
+      "label": "Map.rml",
+      "url": "repository/index.html#/Project1/Map.rml"
     },
     {
       "label": "csfle-aws-encrypt.rml",
@@ -392,7 +407,7 @@
   "settings": {
     "service-chooser": {
       "favourites": "etl,git-deploy,queue-monitor,report-portal,repository,repository-disk,secrets,system-settings",
-      "pinned": "messages,sysinfo,tasks,user-settings"
+      "pinned": "messages,repository,sysinfo,tasks,user-settings"
     }
   }
 }

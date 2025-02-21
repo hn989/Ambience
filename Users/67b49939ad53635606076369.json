@@ -19,7 +19,7 @@
   "email": "user1@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1739895986485"
+      "$numberLong": "1740105837209"
     }
   }
 }
