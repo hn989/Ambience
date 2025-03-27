@@ -383,13 +383,81 @@
   "email": "changeme@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1740108260734"
+      "$numberLong": "1743050739757"
     }
   },
   "recent-files": [
     {
+      "label": "Comparison",
+      "url": "etl-designer/6699dbd6-ca4f-4065-8e73-fa3141834aa3/index.html"
+    },
+    {
       "label": "GitFilesystem",
       "url": "etl-designer/0f7c7354-6834-4fb9-8334-c6c40c19c3ae/index.html"
+    },
+    {
+      "label": "RepertoireGit",
+      "url": "etl-designer/472153aa-5d0a-4d41-95d6-41bcd0cbf69f/index.html"
+    },
+    {
+      "label": "S3",
+      "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
+    },
+    {
+      "label": "list",
+      "url": "etl-designer/6c7157cc-5fc7-488e-a9b2-6ec77d7305ea/index.html"
+    },
+    {
+      "label": "S3",
+      "url": "etl-designer/9ac5ec39-d96d-4758-8d19-bddd5cb255f9/index.html"
+    },
+    {
+      "label": "RepertoireGit.chainset.json",
+      "url": "etl-designer/ade4778c-452b-468d-b150-296793d92c32/index.html"
+    },
+    {
+      "label": "CPF-Beacon-Chainsets.chainset (1).json",
+      "url": "etl-designer/67738243-82c5-456e-95b6-7344575e2101/index.html"
+    },
+    {
+      "label": "CPF-Beacon-Chainsets",
+      "url": "etl-designer/befbc825-5cb6-475a-89d5-008a2648f5a4/index.html"
+    },
+    {
+      "label": "SampleRepertoireGit",
+      "url": "etl-designer/8379ebd7-36e2-4dfc-80ca-b4d75605775d/index.html"
+    },
+    {
+      "label": "sample02\r",
+      "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
+    },
+    {
+      "label": "EncryptedReports",
+      "url": "etl-designer/b9c3569d-fc15-45ac-8d3e-0c7afbe0f1a4/index.html"
+    },
+    {
+      "label": "test",
+      "url": "etl-designer/9ac5ec39-d96d-4758-8d19-bddd5cb255f9/index.html"
+    },
+    {
+      "label": "Form.rml",
+      "url": "repository/index.html#/User/admin/Form.rml"
+    },
+    {
+      "label": "sample02",
+      "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
+    },
+    {
+      "label": "cpf-api",
+      "url": "etl-designer/c537dcb5-5d9b-4853-9a79-254aa0798490/index.html"
+    },
+    {
+      "label": "CSFLE",
+      "url": "etl-designer/35ec483b-05d7-48c2-b268-10d9723963eb/index.html"
+    },
+    {
+      "label": "Repository",
+      "url": "etl-designer/6699dbd6-ca4f-4065-8e73-fa3141834aa3/index.html"
     },
     {
       "label": "Form.rml",
@@ -398,10 +466,6 @@
     {
       "label": "Map.rml",
       "url": "repository/index.html#/Project1/Map.rml"
-    },
-    {
-      "label": "csfle-aws-encrypt.rml",
-      "url": "repository/index.html#/ElixirSamples/CSFLE/AWS/csfle-aws-encrypt.rml"
     }
   ],
   "settings": {

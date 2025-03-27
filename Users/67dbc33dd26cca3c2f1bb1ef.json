@@ -1,0 +1,10 @@
+{
+  "_id": {
+    "$oid": "67dbc33dd26cca3c2f1bb1ef"
+  },
+  "name": "apiUser",
+  "enabled": true,
+  "roles": [],
+  "privileges": [],
+  "extraFields": {}
+}
