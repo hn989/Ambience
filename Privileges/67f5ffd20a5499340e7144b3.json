@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "67f5ffd20a5499340e7144b3"
+  },
+  "name": "mod-checklist-edit",
+  "description": "Allowed to edit checklist metadata (eg. role access)"
+}

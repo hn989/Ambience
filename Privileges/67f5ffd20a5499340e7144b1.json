@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "67f5ffd20a5499340e7144b1"
+  },
+  "name": "mod-developer-write",
+  "description": "Allowed to modify at the database level"
+}

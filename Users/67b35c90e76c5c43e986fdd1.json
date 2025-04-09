@@ -383,10 +383,18 @@
   "email": "changeme@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1743050739757"
+      "$numberLong": "1744177981524"
     }
   },
   "recent-files": [
+    {
+      "label": "cpf-api",
+      "url": "etl-designer/c537dcb5-5d9b-4853-9a79-254aa0798490/index.html"
+    },
+    {
+      "label": "CPFB - Migration",
+      "url": "etl-designer/6c7157cc-5fc7-488e-a9b2-6ec77d7305ea/index.html"
+    },
     {
       "label": "Comparison",
       "url": "etl-designer/6699dbd6-ca4f-4065-8e73-fa3141834aa3/index.html"
@@ -448,10 +456,6 @@
       "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
     },
     {
-      "label": "cpf-api",
-      "url": "etl-designer/c537dcb5-5d9b-4853-9a79-254aa0798490/index.html"
-    },
-    {
       "label": "CSFLE",
       "url": "etl-designer/35ec483b-05d7-48c2-b268-10d9723963eb/index.html"
     },
@@ -462,10 +466,6 @@
     {
       "label": "Form.rml",
       "url": "repository/index.html#/Project1/Form.rml"
-    },
-    {
-      "label": "Map.rml",
-      "url": "repository/index.html#/Project1/Map.rml"
     }
   ],
   "settings": {
