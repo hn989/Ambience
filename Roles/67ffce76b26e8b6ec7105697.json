@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "67ffce76b26e8b6ec7105697"
+  },
+  "description": "",
+  "privileges": [],
+  "enabled": true,
+  "users": [],
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1744817782271"
+    }
+  },
+  "name-deleted": "Group4"
+}

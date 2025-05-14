@@ -1,0 +1,19 @@
+{
+  "_id": {
+    "$oid": "67ffc94eb26e8b6ec710549f"
+  },
+  "description": "",
+  "privileges": [
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ca"
+    }
+  ],
+  "enabled": true,
+  "users": [],
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1744816462544"
+    }
+  },
+  "name-deleted": "roleA"
+}

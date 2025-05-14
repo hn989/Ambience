@@ -1,0 +1,14 @@
+{
+  "_id": {
+    "$oid": "68079798a1753635996dc453"
+  },
+  "name": "Group2",
+  "description": "",
+  "privileges": [],
+  "enabled": true,
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1745464657690"
+    }
+  }
+}

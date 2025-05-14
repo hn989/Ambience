@@ -6,7 +6,10 @@
   "enabled": true,
   "roles": [
     {
-      "$oid": "67b49914ad53635606076330"
+      "$oid": "67ffd0ecb26e8b6ec710586b"
+    },
+    {
+      "$oid": "6807978ca1753635996dc449"
     }
   ],
   "privileges": [],
@@ -19,7 +22,21 @@
   "email": "user1@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1740105837209"
+      "$numberLong": "1747229526694"
     }
-  }
+  },
+  "recent-files": [
+    {
+      "label": "cpf-api",
+      "url": "etl-designer/c537dcb5-5d9b-4853-9a79-254aa0798490/index.html"
+    },
+    {
+      "label": "transaction_report.rml",
+      "url": "repository/index.html#/ElixirSamples/largereport/rml/transaction_report.rml"
+    },
+    {
+      "label": "Form.rml",
+      "url": "repository/index.html#/ElixirSamples/Report/RML/Form.rml"
+    }
+  ]
 }

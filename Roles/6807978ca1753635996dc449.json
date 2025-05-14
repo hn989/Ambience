@@ -1,0 +1,24 @@
+{
+  "_id": {
+    "$oid": "6807978ca1753635996dc449"
+  },
+  "name": "Group1",
+  "description": "",
+  "privileges": [
+    {
+      "$oid": "67b35cb7ec0b5b26c152c1ae"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdc1"
+    },
+    {
+      "$oid": "67b35c90e76c5c43e986fdcb"
+    }
+  ],
+  "enabled": true,
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1747206683320"
+    }
+  }
+}

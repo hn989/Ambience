@@ -1,0 +1,7 @@
+{
+  "_id": {
+    "$oid": "6809a8f6bd72587de85e27b2"
+  },
+  "name": "mod-data-catalog",
+  "description": "Allows Data Catalog Access"
+}

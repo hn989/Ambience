@@ -6,9 +6,6 @@
   "enabled": true,
   "roles": [
     {
-      "$oid": "67b49914ad53635606076330"
-    },
-    {
       "$oid": "67b4992cad53635606076339"
     }
   ],
@@ -170,6 +167,9 @@
       "$oid": "67b35cb7ec0b5b26c152c220"
     },
     {
+      "$oid": "67b35cf508015f6460abda52"
+    },
+    {
       "$oid": "67b35cb7ec0b5b26c152c21a"
     },
     {
@@ -186,6 +186,9 @@
     },
     {
       "$oid": "67b35cb7ec0b5b26c152c252"
+    },
+    {
+      "$oid": "67b35cf508015f6460abda51"
     },
     {
       "$oid": "67b35cb7ec0b5b26c152c260"
@@ -207,6 +210,9 @@
     },
     {
       "$oid": "67b35cb7ec0b5b26c152c1dc"
+    },
+    {
+      "$oid": "67f5ffd20a5499340e7144b5"
     },
     {
       "$oid": "67b35cb7ec0b5b26c152c196"
@@ -372,28 +378,78 @@
     },
     {
       "$oid": "67b35cb7ec0b5b26c152c258"
-    },
-    {
-      "$oid": "67b35cf508015f6460abda51"
-    },
-    {
-      "$oid": "67b35cf508015f6460abda52"
     }
   ],
   "email": "changeme@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1744177981524"
+      "$numberLong": "1747229588499"
     }
   },
   "recent-files": [
+    {
+      "label": "GitFileSystem",
+      "url": "etl-designer/a8d8d792-ff8b-44ac-bdb6-db5d80e31685/index.html"
+    },
     {
       "label": "cpf-api",
       "url": "etl-designer/c537dcb5-5d9b-4853-9a79-254aa0798490/index.html"
     },
     {
+      "label": "CPFB-Chainset-Updated",
+      "url": "etl-designer/55ae8b0f-483a-42d3-832c-991b7e85cd5b/index.html"
+    },
+    {
+      "label": "S3",
+      "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
+    },
+    {
+      "label": "renderReport",
+      "url": "etl-designer/f3956bd0-d038-4e6f-a91b-d6d6c177112e/index.html"
+    },
+    {
+      "label": "Form.rml",
+      "url": "repository/index.html#/User/admin/Form.rml"
+    },
+    {
+      "label": "ACL_Compare-Combine.chainset-v2",
+      "url": "etl-designer/d3928722-3651-4e77-b824-1a27adee207e/index.html"
+    },
+    {
+      "label": "ACL_Compare-Combine",
+      "url": "etl-designer/7b8b947f-1851-4480-8b62-dc35adbc8105/index.html"
+    },
+    {
       "label": "CPFB - Migration",
       "url": "etl-designer/6c7157cc-5fc7-488e-a9b2-6ec77d7305ea/index.html"
+    },
+    {
+      "label": "CPF-Beacon-Chainsets",
+      "url": "etl-designer/befbc825-5cb6-475a-89d5-008a2648f5a4/index.html"
+    },
+    {
+      "label": "CPF-Chainset",
+      "url": "etl-designer/07546b67-a1ff-4000-aa1f-78798e96f4b3/index.html"
+    },
+    {
+      "label": "Combine-Compare",
+      "url": "etl-designer/82a73335-4371-43b5-84c5-0a2503e44ffc/index.html"
+    },
+    {
+      "label": "transaction_report.rml",
+      "url": "repository/index.html#/ElixirSamples/largereport/rml/transaction_report.rml"
+    },
+    {
+      "label": "transaction_details.rml",
+      "url": "repository/index.html#/ElixirSamples/largereport/rml/transaction_details.rml"
+    },
+    {
+      "label": "Migration\r",
+      "url": "etl-designer/8ccafb0f-776d-4b2f-8a62-018e2b80f54a/index.html"
+    },
+    {
+      "label": "CopyJobQueue",
+      "url": "etl-designer/8ee72000-8a6f-4cbc-abff-aa87e157bf82/index.html"
     },
     {
       "label": "Comparison",
@@ -404,68 +460,12 @@
       "url": "etl-designer/0f7c7354-6834-4fb9-8334-c6c40c19c3ae/index.html"
     },
     {
-      "label": "RepertoireGit",
-      "url": "etl-designer/472153aa-5d0a-4d41-95d6-41bcd0cbf69f/index.html"
+      "label": "Migration",
+      "url": "etl-designer/8ccafb0f-776d-4b2f-8a62-018e2b80f54a/index.html"
     },
     {
-      "label": "S3",
-      "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
-    },
-    {
-      "label": "list",
-      "url": "etl-designer/6c7157cc-5fc7-488e-a9b2-6ec77d7305ea/index.html"
-    },
-    {
-      "label": "S3",
-      "url": "etl-designer/9ac5ec39-d96d-4758-8d19-bddd5cb255f9/index.html"
-    },
-    {
-      "label": "RepertoireGit.chainset.json",
-      "url": "etl-designer/ade4778c-452b-468d-b150-296793d92c32/index.html"
-    },
-    {
-      "label": "CPF-Beacon-Chainsets.chainset (1).json",
-      "url": "etl-designer/67738243-82c5-456e-95b6-7344575e2101/index.html"
-    },
-    {
-      "label": "CPF-Beacon-Chainsets",
-      "url": "etl-designer/befbc825-5cb6-475a-89d5-008a2648f5a4/index.html"
-    },
-    {
-      "label": "SampleRepertoireGit",
-      "url": "etl-designer/8379ebd7-36e2-4dfc-80ca-b4d75605775d/index.html"
-    },
-    {
-      "label": "sample02\r",
-      "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
-    },
-    {
-      "label": "EncryptedReports",
-      "url": "etl-designer/b9c3569d-fc15-45ac-8d3e-0c7afbe0f1a4/index.html"
-    },
-    {
-      "label": "test",
-      "url": "etl-designer/9ac5ec39-d96d-4758-8d19-bddd5cb255f9/index.html"
-    },
-    {
-      "label": "Form.rml",
-      "url": "repository/index.html#/User/admin/Form.rml"
-    },
-    {
-      "label": "sample02",
-      "url": "etl-designer/94d6784f-81cb-4ecf-afff-b4dacef083c7/index.html"
-    },
-    {
-      "label": "CSFLE",
-      "url": "etl-designer/35ec483b-05d7-48c2-b268-10d9723963eb/index.html"
-    },
-    {
-      "label": "Repository",
-      "url": "etl-designer/6699dbd6-ca4f-4065-8e73-fa3141834aa3/index.html"
-    },
-    {
-      "label": "Form.rml",
-      "url": "repository/index.html#/Project1/Form.rml"
+      "label": "Pivot Table.rml",
+      "url": "repository/index.html#/ElixirSamples/Report/RML/Pivot Table.rml"
     }
   ],
   "settings": {

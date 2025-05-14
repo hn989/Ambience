@@ -1,0 +1,25 @@
+{
+  "_id": "ba991e64-98f6-4196-84ae-e3585d6ff813",
+  "token": "e56aae9e-e46a-40f8-b28d-61e8e6758fb5",
+  "userId": {
+    "$oid": "67b49939ad53635606076369"
+  },
+  "description": "",
+  "addCookie": false,
+  "enabled": true,
+  "expireAt": {
+    "$numberInt": "0"
+  },
+  "owner": "67b49939ad53635606076369",
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1746624137999"
+    }
+  },
+  "lastModifiedBy": "user1",
+  "lastAccess": {
+    "$date": {
+      "$numberLong": "1747206718900"
+    }
+  }
+}

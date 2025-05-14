@@ -1,0 +1,18 @@
+{
+  "_id": {
+    "$oid": "6819762ec11570e5a7849dcb"
+  },
+  "name": "Group99",
+  "description": "",
+  "enabled": true,
+  "privileges": [
+    {
+      "$oid": "67b35c90e76c5c43e986fdc1"
+    }
+  ],
+  "lastModified": {
+    "$date": {
+      "$numberLong": "1746499118440"
+    }
+  }
+}
