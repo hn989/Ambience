@@ -383,10 +383,14 @@
   "email": "changeme@example.com",
   "lastLogin": {
     "$date": {
-      "$numberLong": "1747276350506"
+      "$numberLong": "1747289747825"
     }
   },
   "recent-files": [
+    {
+      "label": "transaction_report.rml",
+      "url": "repository/index.html#/ElixirSamples/largereport/rml/transaction_report.rml"
+    },
     {
       "label": "GitFileSystem",
       "url": "etl-designer/a8d8d792-ff8b-44ac-bdb6-db5d80e31685/index.html"
@@ -434,10 +438,6 @@
     {
       "label": "Combine-Compare",
       "url": "etl-designer/82a73335-4371-43b5-84c5-0a2503e44ffc/index.html"
-    },
-    {
-      "label": "transaction_report.rml",
-      "url": "repository/index.html#/ElixirSamples/largereport/rml/transaction_report.rml"
     },
     {
       "label": "transaction_details.rml",
